@@ -41,7 +41,7 @@ public class SpringDataApplication implements CommandLineRunner {
 			System.out.println("Qual ação você deseja executar?");
 			System.out.println("0 - Sair");
 			System.out.println("1 - Cargo");
-			System.out.println("2 - Cargo");
+			System.out.println("2 - Funcionário");
 			System.out.println("3 - Unidade");
 			System.out.println("4 - Relatórios");
 
